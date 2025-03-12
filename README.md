@@ -92,7 +92,7 @@ Exceção capturada: O segundo parâmetro deve ser maior que o primeiro
 Este desafio foi criado por **Gleyson Sampaio** e faz parte da plataforma [DIO](https://www.dio.me/).  
 
 📅 **Modificações e melhorias realizadas por:**  
-[Calebe Werneck Couto] - *Adicione seu contato ou GitHub caso queira* 🚀
+[Calebe Werneck Couto] - *cwc3d.net* 🚀
 
 ---
 
